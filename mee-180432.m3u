@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== groupName=北京 ======
-http://2/2.m3u8
 #EXTINF:-1 ,北京财经
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 #EXTINF:-1 ,北京科教
@@ -17,8 +15,6 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
 #EXTINF:-1 ,冬奥纪实
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-#EXTINF:-1 ,====== groupName=河南 ======
-http://4/4.m3u8
 #EXTINF:-1 ,河南电视剧
 http://61.163.111.46/tvcdn.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
 #EXTINF:-1 ,河南都市
@@ -55,8 +51,6 @@ http://live.zztv.tv/wtzzly/playlist.m3u8
 http://live.zztv.tv/gbds/playlist.m3u8
 #EXTINF:-1 ,郑州影视戏曲
 http://live.zztv.tv/zztv5/playlist.m3u8
-#EXTINF:-1 ,====== groupName=上海 ======
-http://6/6.m3u8
 #EXTINF:-1 ,东方影视HD
 http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8
 #EXTINF:-1 ,上海第一财经
@@ -71,8 +65,56 @@ http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 ,生活时尚HD
 http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
-#EXTINF:-1 ,====== groupName=卫视 ======
-http://8/8.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,浙江科教影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 ,浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 ,浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,浙江少儿频道
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,浙江新闻频道
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 ,CCTV1
+http://39.136.48.102:8089/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://39.136.48.102:8089/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://39.135.49.209:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV4
+http://39.136.48.102:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 ,CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.136.48.102:8089/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.136.48.102:8089/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://39.135.49.209:6610/PLTV/88888888/224/3221227137/1.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV7
+http://39.136.48.102:8089/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://39.136.48.99:8089/PLTV/88888888/224/3221226429/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://39.136.48.102:8089/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.136.48.102:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://39.135.49.209:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV12
+http://39.136.48.102:8089/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.135.49.209:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV14
+http://39.136.48.102:8089/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://39.135.49.209:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV16
+http://39.135.49.209:6610/PLTV/88888888/224/3221227148/1.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV17
+http://39.136.48.102:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 ,安徽卫视
 http://39.136.48.102:8089/PLTV/88888888/224/3221225775/index.m3u8
 #EXTINF:-1 ,北京卫视
@@ -139,57 +181,5 @@ http://39.134.19.234:6610/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomai
 http://39.134.19.234:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,浙江卫视
 http://39.136.48.102:8089/PLTV/88888888/224/3221225585/index.m3u8
-#EXTINF:-1 ,====== groupName=央视 ======
-http://10/10.m3u8
-#EXTINF:-1 ,CCTV1
-http://39.136.48.102:8089/PLTV/88888888/224/3221225859/index.m3u8
-#EXTINF:-1 ,CCTV2
-http://39.136.48.102:8089/PLTV/88888888/224/3221225751/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://39.135.49.209:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV4
-http://39.136.48.102:8089/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 ,CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 ,CCTV5
-http://39.136.48.102:8089/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 ,CCTV5+
-http://39.136.48.102:8089/PLTV/88888888/224/3221225781/index.m3u8
-#EXTINF:-1 ,CCTV6
-http://39.135.49.209:6610/PLTV/88888888/224/3221227137/1.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV7
-http://39.136.48.102:8089/PLTV/88888888/224/3221225753/index.m3u8
-#EXTINF:-1 ,CCTV8
-http://39.136.48.99:8089/PLTV/88888888/224/3221226429/index.m3u8
-#EXTINF:-1 ,CCTV9
-http://39.136.48.102:8089/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1 ,CCTV10
-http://39.136.48.102:8089/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1 ,CCTV11
-http://39.135.49.209:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV12
-http://39.136.48.102:8089/PLTV/88888888/224/3221225763/index.m3u8
-#EXTINF:-1 ,CCTV13
-http://39.135.49.209:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV14
-http://39.136.48.102:8089/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 ,CCTV15
-http://39.135.49.209:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV16
-http://39.135.49.209:6610/PLTV/88888888/224/3221227148/1.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV17
-http://39.136.48.102:8089/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:-1 ,====== groupName=浙江 ======
-http://12/12.m3u8
-#EXTINF:-1 ,浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江科教影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江钱江都市
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 ,浙江少儿频道
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 ,浙江新闻频道
-http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+
