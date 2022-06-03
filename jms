@@ -17,14 +17,14 @@ http://39.135.49.140:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1
 http://120.84.96.25:808/hls/29/index.m3u8
 #EXTINF:-1 ,寰宇新聞
 https://ytb.52sf.ga/live.m3u8?c=15
-#EXTINF:-1 ,鏡新聞
-https://ytb.52sf.ga/live.m3u8?c=24
 #EXTINF:-1 ,民視新聞
 https://ytb.52sf.ga/live.m3u8?c=3
-#EXTINF:-1 ,三立 iNEWS
-https://ytb.52sf.ga/live.m3u8?c=17
 #EXTINF:-1 ,三立海外
 https://ytb.52sf.ga/live.m3u8?c=10
+#EXTINF:-1 ,三立 iNEWS
+https://ytb.52sf.ga/live.m3u8?c=17
+#EXTINF:-1 ,鏡新聞
+https://ytb.52sf.ga/live.m3u8?c=24
 #EXTINF:-1 ,台視新聞
 https://ytb.52sf.ga/live.m3u8?c=5
 #EXTINF:-1 ,運通財經
