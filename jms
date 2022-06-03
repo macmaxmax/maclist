@@ -14,7 +14,7 @@ https://ytb.52sf.ga/live.m3u8?c=25
 #EXTINF:-1 ,鳳凰新聞
 http://120.84.96.25:808/hls/28/index.m3u8
 #EXTINF:-1 ,鳳凰中文
-http://120.84.96.25:808/hls/29/index.m3u8#https://ytb.52sf.ga/live.m3u8?c=22
+http://120.84.96.25:808/hls/29/index.m3u8
 #EXTINF:-1 ,寰宇新聞
 https://ytb.52sf.ga/live.m3u8?c=15
 #EXTINF:-1 ,鏡新聞
@@ -47,4 +47,3 @@ https://ytb.52sf.ga/live.m3u8?c=4
 https://ytb.52sf.ga/live.m3u8?c=37
 #EXTINF:-1 ,誠心電視台
 https://ytb.52sf.ga/live.m3u8?c=42
-
