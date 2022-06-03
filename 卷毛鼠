@@ -3,8 +3,6 @@
 http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 ,東森新聞
 https://ytb.52sf.ga/live.m3u8?c=9
-#EXTINF:-1 ,东森财经
-http://60.249.146.250:8546/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 ,東森財經
 https://ytb.52sf.ga/live.m3u8?c=12
 #EXTINF:-1 ,东森电影
