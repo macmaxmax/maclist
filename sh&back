@@ -21,8 +21,6 @@ http://117.148.179.156/TVOD/88888888/224/3221232362/index.m3u8#http://39.134.115
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV4-中文国际欧洲
 http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV04-中文国际
-http://117.148.179.183/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道", CCTV-5 体育
 http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231702/index.m3u8#http://112.25.47.24/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道", CCTV-5+ 体育赛事
