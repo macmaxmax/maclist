@@ -3,10 +3,10 @@
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 #EXTINF:-1 ,东森财经
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-#EXTINF:-1 ,东森购物二
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
 #EXTINF:-1 ,东森购物一
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+#EXTINF:-1 ,东森购物二
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
 #EXTINF:-1 ,公视戏剧
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 #EXTINF:-1 ,滚动力
@@ -25,10 +25,6 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 #EXTINF:-1 ,经典电影
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-#EXTINF:-1 ,经典卡通
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-#EXTINF:-1 ,精选动漫
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 #EXTINF:-1 ,镜新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 #EXTINF:-1 ,民视
