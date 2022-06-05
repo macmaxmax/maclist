@@ -8,7 +8,7 @@ http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8#http://shbu.live.
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
 http://111.11.123.49:6610/000000001000/5000000010000017540/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2885320220513031619029333&channel-id=bestzb&Contentid=5000000010000017540#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
-http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道", CCTV-1 综合
 http://117.148.179.155/TVOD/88888888/224/3221231471/index.m3u8
