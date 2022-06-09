@@ -16,7 +16,7 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.
 #EXTINF:-1 group-title="北京",冬奥纪实
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 group-title=“港台",东森新闻
-http://211.23.114.106:11220/http/60.251.39.91:8081/hls/63/805/ch10.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw#http://211.23.114.106:11220/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title=“港台",东森财经
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://211.23.114.106:11305/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 group-title=“港台",鳳凰新聞
