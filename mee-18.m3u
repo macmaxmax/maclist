@@ -20,13 +20,11 @@ http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8#https://
 #EXTINF:-1 group-title=“港台",东森财经
 https://ytb.52sf.ga/jmsytb.m3u8?c=12#http://220.134.196.147:9546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b543a5c6-2629-466f-8048-c943ee042636.m3u8#rtmp://59.124.75.138/sat/tv571
 #EXTINF:-1 group-title=“港台",东森戏剧
-http://iptv12k.com:35461/live/80201051217/424567/1255.m3u8#http://iptv12k.com:35461/live/8032022060101/452381/1255.m3u8#http://220.134.196.147:9530/http/116.50.42.18:8081/hls/64/806/ch13.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
-#EXTINF:-1 group-title=“港台",东森洋片
-http://iptv12k.com:35461/live/8032022060101/452381/1256.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
+http://iptv12k.com:35461/live/8032022060101/452381/1255.m3u8#http://220.134.196.147:9530/http/116.50.42.18:8081/hls/64/806/ch13.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
 #EXTINF:-1 group-title=“港台",东森综合
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#http://iptv12k.com:35461/live/80201051217/424567/1280.m3u8#http://iptv12k.com:35461/live/8032022060101/452381/1280.m3u8#http://220.134.196.147:9524/http/116.50.42.18:8081/hls/63/805/ch12.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+http://220.134.196.147:9524/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 group-title=“港台",东森电影
-http://120.84.96.33:808/hls/32/index.m3u8#http://120.84.96.42:808/hls/32/index.m3u8#http://120.84.96.46:808/hls/32/index.m3u8#http://120.84.96.43:808/hls/32/index.m3u8#http://iptv12k.com:35461/live/80201051217/424567/1254.m3u8#http://iptv12k.com:35461/live/8032022060101/452381/1254.m3u8#http://120.84.96.33:808/hls/32/index.m3u8#http://120.84.96.46:808/hls/32/index.m3u8#http://120.84.96.42:808/hls/32/index.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
+http://120.84.96.46:808/hls/32/index.m3u8
 #EXTINF:-1 group-title=“港台",鳳凰新聞
 http://39.135.49.140:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title=“港台",鳳凰中文
