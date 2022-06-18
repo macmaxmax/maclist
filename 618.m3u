@@ -1,212 +1,108 @@
 #EXTM3U
 #EXTINF:-1 ,8度空间
-http://58.247.68.5:61985/m3u8/8c1c704ed/index.m3u8
-#EXTINF:-1 ,8度空间
-http://58.247.68.5:61985/hlsok/8c1c704ed/index.m3u8
+http://58.247.68.5:61985/m3u8/8c1c704ed/index.m3u8#http://58.247.68.5:61985/hlsok/8c1c704ed/index.m3u8
 #EXTINF:-1 ,爱奇艺
-http://58.247.68.5:61985/m3u8/c0603ce98/index.m3u8
-#EXTINF:-1 ,爱奇艺
-http://58.247.68.5:61985/hlsok/c0603ce98/index.m3u8
+http://58.247.68.5:61985/m3u8/c0603ce98/index.m3u8#http://58.247.68.5:61985/hlsok/c0603ce98/index.m3u8
 #EXTINF:-1 ,八大第一
-http://58.247.68.5:61985/hlsok/0c1c9c69/index.m3u8
-#EXTINF:-1 ,八大第一台
-http://58.247.68.5:61985/m3u8/0c1c9c69/index.m3u8
+http://58.247.68.5:61985/hlsok/0c1c9c69/index.m3u8#http://58.247.68.5:61985/m3u8/0c1c9c69/index.m3u8
 #EXTINF:-1 ,八大戏剧
-http://58.247.68.5:61985/hlsok/ecd48897/index.m3u8
-#EXTINF:-1 ,八大戏剧台
-http://58.247.68.5:61985/m3u8/ecd48897/index.m3u8
+http://58.247.68.5:61985/hlsok/ecd48897/index.m3u8#http://58.247.68.5:61985/m3u8/ecd48897/index.m3u8
 #EXTINF:-1 ,八大娱乐
-http://58.247.68.5:61985/hlsok/ae8d3762/index.m3u8
-#EXTINF:-1 ,八大娱乐台
-http://58.247.68.5:61985/m3u8/ae8d3762/index.m3u8
+http://58.247.68.5:61985/hlsok/ae8d3762/index.m3u8#http://58.247.68.5:61985/m3u8/ae8d3762/index.m3u8
 #EXTINF:-1 ,八大综合
-http://58.247.68.5:61985/hlsok/41bea7e4/index.m3u8
-#EXTINF:-1 ,八大综合台
-http://58.247.68.5:61985/m3u8/41bea7e4/index.m3u8
+http://58.247.68.5:61985/hlsok/41bea7e4/index.m3u8#http://58.247.68.5:61985/m3u8/41bea7e4/index.m3u8
 #EXTINF:-1 ,博斯高球I
-http://58.247.68.5:61985/m3u8/69e91b16/index.m3u8
-#EXTINF:-1 ,博斯高球I
-http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
+http://58.247.68.5:61985/m3u8/69e91b16/index.m3u8#http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
 #EXTINF:-1 ,博斯高球II
-http://58.247.68.5:61985/m3u8/331f6d9d/index.m3u8
-#EXTINF:-1 ,博斯高球II
-http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
+http://58.247.68.5:61985/m3u8/331f6d9d/index.m3u8#http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
 #EXTINF:-1 ,博斯魅力
-http://58.247.68.5:61985/m3u8/5c2d477b/index.m3u8
-#EXTINF:-1 ,博斯魅力
-http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+http://58.247.68.5:61985/m3u8/5c2d477b/index.m3u8#http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
 #EXTINF:-1 ,博斯网球
-http://58.247.68.5:61985/m3u8/bdec2954/index.m3u8
-#EXTINF:-1 ,博斯网球
-http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
+http://58.247.68.5:61985/m3u8/bdec2954/index.m3u8#http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
 #EXTINF:-1 ,博斯无限1
-http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8
-#EXTINF:-1 ,博斯无限I
-http://58.247.68.5:61985/m3u8/da31cc90/index.m3u8
+http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8#http://58.247.68.5:61985/m3u8/da31cc90/index.m3u8
 #EXTINF:-1 ,博斯运动1
-http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
-#EXTINF:-1 ,博斯运动2
-http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+http://58.247.68.5:61985/hlsok/967c8913/index.m3u8#http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
 #EXTINF:-1 ,博斯运动I
-http://58.247.68.5:61985/m3u8/967c8913/index.m3u8
-#EXTINF:-1 ,博斯运动II
-http://58.247.68.5:61985/m3u8/231c4866/index.m3u8
+http://58.247.68.5:61985/m3u8/967c8913/index.m3u8#http://58.247.68.5:61985/m3u8/231c4866/index.m3u8
 #EXTINF:-1 ,大爱
-http://58.247.68.5:61985/hlsok/0fe40b1c/index.m3u8
-#EXTINF:-1 ,大爱电视台
-http://58.247.68.5:61985/m3u8/0fe40b1c/index.m3u8
+http://58.247.68.5:61985/hlsok/0fe40b1c/index.m3u8#http://58.247.68.5:61985/m3u8/0fe40b1c/index.m3u8
 #EXTINF:-1 ,迪士尼卡通
-http://58.247.68.5:61985/m3u8/92d3d2fd1/index.m3u8
-#EXTINF:-1 ,迪士尼卡通
-http://58.247.68.5:61985/hlsok/92d3d2fd1/index.m3u8
+http://58.247.68.5:61985/m3u8/92d3d2fd1/index.m3u8#http://58.247.68.5:61985/hlsok/92d3d2fd1/index.m3u8
 #EXTINF:-1 ,东风37
-http://58.247.68.5:61985/m3u8/c1809a12/index.m3u8
-#EXTINF:-1 ,东风37
-http://58.247.68.5:61985/hlsok/c1809a12/index.m3u8
+http://58.247.68.5:61985/m3u8/c1809a12/index.m3u8#http://58.247.68.5:61985/hlsok/c1809a12/index.m3u8
 #EXTINF:-1 ,东森财经新闻
-http://58.247.68.5:61985/m3u8/7a3a85b7/index.m3u8
-#EXTINF:-1 ,东森财经新闻
-http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
+http://58.247.68.5:61985/m3u8/7a3a85b7/index.m3u8#http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
 #EXTINF:-1 ,东森超视
-http://58.247.68.5:61985/m3u8/53633d87/index.m3u8
-#EXTINF:-1 ,东森超视
-http://58.247.68.5:61985/hlsok/53633d87/index.m3u8
+http://58.247.68.5:61985/m3u8/53633d87/index.m3u8#http://58.247.68.5:61985/hlsok/53633d87/index.m3u8
 #EXTINF:-1 ,东森电影
-http://58.247.68.5:61985/m3u8/75d7613b/index.m3u8
-#EXTINF:-1 ,东森电影
-http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
+http://58.247.68.5:61985/m3u8/75d7613b/index.m3u8#http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
 #EXTINF:-1 ,东森戏剧
-http://58.247.68.5:61985/m3u8/35bb9175/index.m3u8
-#EXTINF:-1 ,东森戏剧
-http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8
+http://58.247.68.5:61985/m3u8/35bb9175/index.m3u8#http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8
 #EXTINF:-1 ,东森新闻
-http://58.247.68.5:61985/m3u8/1ecdeb5a/index.m3u8
-#EXTINF:-1 ,东森新闻
-http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
+http://58.247.68.5:61985/m3u8/1ecdeb5a/index.m3u8#http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
 #EXTINF:-1 ,东森洋片
-http://58.247.68.5:61985/m3u8/14561539/index.m3u8
-#EXTINF:-1 ,东森洋片
-http://58.247.68.5:61985/hlsok/14561539/index.m3u8
+http://58.247.68.5:61985/m3u8/14561539/index.m3u8#http://58.247.68.5:61985/hlsok/14561539/index.m3u8
 #EXTINF:-1 ,东森幼幼
-http://58.247.68.5:61985/m3u8/917ed93a/index.m3u8
-#EXTINF:-1 ,东森幼幼
-http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
+http://58.247.68.5:61985/m3u8/917ed93a/index.m3u8#http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
 #EXTINF:-1 ,东森综合
-http://58.247.68.5:61985/m3u8/d3cc16e5/index.m3u8
-#EXTINF:-1 ,东森综合
-http://58.247.68.5:61985/hlsok/d3cc16e5/index.m3u8
+http://58.247.68.5:61985/m3u8/d3cc16e5/index.m3u8#http://58.247.68.5:61985/hlsok/d3cc16e5/index.m3u8
 #EXTINF:-1 ,动物星球
-http://58.247.68.5:61985/m3u8/76011b82/index.m3u8
-#EXTINF:-1 ,动物星球
-http://58.247.68.5:61985/hlsok/76011b82/index.m3u8
+http://58.247.68.5:61985/m3u8/76011b82/index.m3u8#http://58.247.68.5:61985/hlsok/76011b82/index.m3u8
 #EXTINF:-1 ,非凡新闻
-http://58.247.68.5:61985/m3u8/2187f64b/index.m3u8
-#EXTINF:-1 ,非凡新闻
-http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+http://58.247.68.5:61985/m3u8/2187f64b/index.m3u8#http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
 #EXTINF:-1 ,翡翠
-http://58.247.68.5:61985/hlsok/892debf01/index.m3u8
-#EXTINF:-1 ,翡翠台 FHD
-http://58.247.68.5:61985/m3u8/892debf01/index.m3u8
+http://58.247.68.5:61985/hlsok/892debf01/index.m3u8#http://58.247.68.5:61985/m3u8/892debf01/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://58.247.68.5:61985/m3u8/b18b32b6/index.m3u8
-#EXTINF:-1 ,凤凰香港
-http://58.247.68.5:61985/hlsok/b18b32b6/index.m3u8
+http://58.247.68.5:61985/m3u8/b18b32b6/index.m3u8#http://58.247.68.5:61985/hlsok/b18b32b6/index.m3u8
 #EXTINF:-1 ,凤凰中文
-http://58.247.68.5:61985/m3u8/a1ddeef5/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://58.247.68.5:61985/hlsok/a1ddeef5/index.m3u8
+http://58.247.68.5:61985/m3u8/a1ddeef5/index.m3u8#http://58.247.68.5:61985/hlsok/a1ddeef5/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://58.247.68.5:61985/m3u8/2c3cc674/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://58.247.68.5:61985/hlsok/2c3cc674/index.m3u8
+http://58.247.68.5:61985/m3u8/2c3cc674/index.m3u8#http://58.247.68.5:61985/hlsok/2c3cc674/index.m3u8
 #EXTINF:-1 ,高点综合
-http://58.247.68.5:61985/m3u8/9569303e/index.m3u8
-#EXTINF:-1 ,高点综合
-http://58.247.68.5:61985/hlsok/9569303e/index.m3u8
+http://58.247.68.5:61985/m3u8/9569303e/index.m3u8#http://58.247.68.5:61985/hlsok/9569303e/index.m3u8
 #EXTINF:-1 ,公视
-http://58.247.68.5:61985/m3u8/a98ccb72/index.m3u8
-#EXTINF:-1 ,公视
-http://58.247.68.5:61985/hlsok/a98ccb72/index.m3u8
+http://58.247.68.5:61985/m3u8/a98ccb72/index.m3u8#http://58.247.68.5:61985/hlsok/a98ccb72/index.m3u8
 #EXTINF:-1 ,公视2台语
-http://58.247.68.5:61985/hlsok/49ab3435/index.m3u8
-#EXTINF:-1 ,公视2台语台
-http://58.247.68.5:61985/m3u8/49ab3435/index.m3u8
+http://58.247.68.5:61985/hlsok/49ab3435/index.m3u8#http://58.247.68.5:61985/m3u8/49ab3435/index.m3u8
 #EXTINF:-1 ,公视3
-http://58.247.68.5:61985/hlsok/a804122f/index.m3u8
-#EXTINF:-1 ,公视3HD
-http://58.247.68.5:61985/m3u8/a804122f/index.m3u8
+http://58.247.68.5:61985/hlsok/a804122f/index.m3u8#http://58.247.68.5:61985/m3u8/a804122f/index.m3u8
 #EXTINF:-1 ,国家地理
-http://58.247.68.5:61985/hlsok/cab58bd3/index.m3u8
-#EXTINF:-1 ,国家地理高清
-http://58.247.68.5:61985/m3u8/cab58bd3/index.m3u8
+http://58.247.68.5:61985/hlsok/cab58bd3/index.m3u8#http://58.247.68.5:61985/m3u8/cab58bd3/index.m3u8
 #EXTINF:-1 ,国家地理野生
-http://58.247.68.5:61985/m3u8/dc882466/index.m3u8
-#EXTINF:-1 ,国家地理野生
-http://58.247.68.5:61985/hlsok/dc882466/index.m3u8
+http://58.247.68.5:61985/m3u8/dc882466/index.m3u8#http://58.247.68.5:61985/hlsok/dc882466/index.m3u8
 #EXTINF:-1 ,国家地理悠人
-http://58.247.68.5:61985/m3u8/e72a3e0f0/index.m3u8
-#EXTINF:-1 ,国家地理悠人
-http://58.247.68.5:61985/hlsok/e72a3e0f0/index.m3u8
+http://58.247.68.5:61985/m3u8/e72a3e0f0/index.m3u8#http://58.247.68.5:61985/hlsok/e72a3e0f0/index.m3u8
 #EXTINF:-1 ,国兴卫视
-http://58.247.68.5:61985/m3u8/9cd6fcae/index.m3u8
-#EXTINF:-1 ,国兴卫视
-http://58.247.68.5:61985/hlsok/9cd6fcae/index.m3u8
+http://58.247.68.5:61985/m3u8/9cd6fcae/index.m3u8#http://58.247.68.5:61985/hlsok/9cd6fcae/index.m3u8
 #EXTINF:-1 ,韩国tvN
-http://58.247.68.5:61985/m3u8/c3efccf2/index.m3u8
-#EXTINF:-1 ,韩国tvN
-http://58.247.68.5:61985/hlsok/c3efccf2/index.m3u8
+http://58.247.68.5:61985/m3u8/c3efccf2/index.m3u8#http://58.247.68.5:61985/hlsok/c3efccf2/index.m3u8
 #EXTINF:-1 ,好莱坞电影
-http://58.247.68.5:61985/hlsok/a78680e4/index.m3u8
-#EXTINF:-1 ,好莱坞电影台
-http://58.247.68.5:61985/m3u8/a78680e4/index.m3u8
+http://58.247.68.5:61985/hlsok/a78680e4/index.m3u8#http://58.247.68.5:61985/m3u8/a78680e4/index.m3u8
 #EXTINF:-1 ,好消息
-http://58.247.68.5:61985/m3u8/9e23bf25/index.m3u8
-#EXTINF:-1 ,好消息
-http://58.247.68.5:61985/hlsok/9e23bf25/index.m3u8
+http://58.247.68.5:61985/m3u8/9e23bf25/index.m3u8#http://58.247.68.5:61985/hlsok/9e23bf25/index.m3u8
 #EXTINF:-1 ,好消息2
-http://58.247.68.5:61985/m3u8/c56f11e4/index.m3u8
-#EXTINF:-1 ,好消息2
-http://58.247.68.5:61985/hlsok/c56f11e4/index.m3u8
+http://58.247.68.5:61985/m3u8/c56f11e4/index.m3u8#http://58.247.68.5:61985/hlsok/c56f11e4/index.m3u8
 #EXTINF:-1 ,华视
-http://58.247.68.5:61985/m3u8/3d2107b0/index.m3u8
-#EXTINF:-1 ,华视
-http://58.247.68.5:61985/hlsok/3d2107b0/index.m3u8
+http://58.247.68.5:61985/m3u8/3d2107b0/index.m3u8#http://58.247.68.5:61985/hlsok/3d2107b0/index.m3u8
 #EXTINF:-1 ,华视新闻
-http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
-#EXTINF:-1 ,华视新闻资讯
-http://58.247.68.5:61985/m3u8/091887ce/index.m3u8
+http://58.247.68.5:61985/hlsok/091887ce/index.m3u8#http://58.247.68.5:61985/m3u8/091887ce/index.m3u8
 #EXTINF:-1 ,寰宇新闻
-http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
-#EXTINF:-1 ,寰宇新闻台
-http://58.247.68.5:61985/m3u8/1fb0838b/index.m3u8
+http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8#http://58.247.68.5:61985/m3u8/1fb0838b/index.m3u8
 #EXTINF:-1 ,靖天电影
-http://58.247.68.5:61985/hlsok/b6690265/index.m3u8
-#EXTINF:-1 ,靖天电影台
-http://58.247.68.5:61985/m3u8/b6690265/index.m3u8
+http://58.247.68.5:61985/hlsok/b6690265/index.m3u8#http://58.247.68.5:61985/m3u8/b6690265/index.m3u8
 #EXTINF:-1 ,靖天日本
-http://58.247.68.5:61985/hlsok/22b2a3c1/index.m3u8
-#EXTINF:-1 ,靖天日本台
-http://58.247.68.5:61985/m3u8/22b2a3c1/index.m3u8
+http://58.247.68.5:61985/hlsok/22b2a3c1/index.m3u8#http://58.247.68.5:61985/m3u8/22b2a3c1/index.m3u8
 #EXTINF:-1 ,靖天戏剧
-http://58.247.68.5:61985/hlsok/ec8952ba/index.m3u8
-#EXTINF:-1 ,靖天戏剧台
-http://58.247.68.5:61985/m3u8/ec8952ba/index.m3u8
+http://58.247.68.5:61985/hlsok/ec8952ba/index.m3u8#http://58.247.68.5:61985/m3u8/ec8952ba/index.m3u8
 #EXTINF:-1 ,客家
-http://58.247.68.5:61985/hlsok/6caa4479/index.m3u8
-#EXTINF:-1 ,客家电视台
-http://58.247.68.5:61985/m3u8/6caa4479/index.m3u8
+http://58.247.68.5:61985/hlsok/6caa4479/index.m3u8#http://58.247.68.5:61985/m3u8/6caa4479/index.m3u8
 #EXTINF:-1 ,历史频道
-http://58.247.68.5:61985/m3u8/5c2de6d6/index.m3u8
-#EXTINF:-1 ,历史频道
-http://58.247.68.5:61985/hlsok/5c2de6d6/index.m3u8
+http://58.247.68.5:61985/m3u8/5c2de6d6/index.m3u8#http://58.247.68.5:61985/hlsok/5c2de6d6/index.m3u8
 #EXTINF:-1 ,历史H2
-http://58.247.68.5:61985/m3u8/59d690d3/index.m3u8
-#EXTINF:-1 ,历史H2
-http://58.247.68.5:61985/hlsok/59d690d3/index.m3u8
+http://58.247.68.5:61985/m3u8/59d690d3/index.m3u8#http://58.247.68.5:61985/hlsok/59d690d3/index.m3u8
 #EXTINF:-1 ,龙祥时代
-http://58.247.68.5:61985/m3u8/e4a13cc1/index.m3u8
-#EXTINF:-1 ,龙祥时代
-http://58.247.68.5:61985/hlsok/e4a13cc1/index.m3u8
+http://58.247.68.5:61985/m3u8/e4a13cc1/index.m3u8#http://58.247.68.5:61985/hlsok/e4a13cc1/index.m3u8
 #EXTINF:-1 ,美食网
 http://58.247.68.5:61985/m3u8/1dd145d4f/index.m3u8
 #EXTINF:-1 ,美食网
