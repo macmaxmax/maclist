@@ -180,131 +180,69 @@ http://58.247.68.5:61985/hlsok/bf90c099d/index.m3u8#http://58.247.68.5:61985/m3u
 #EXTINF:-1 ,无线新闻
 http://58.247.68.5:61985/hlsok/f104404f0/index.m3u8#http://58.247.68.5:61985/m3u8/f104404f0/index.m3u8
 #EXTINF:-1 ,星卫电影
-http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8#http://58.247.68.5:61985/hlsok/2657344c/index.m3u8
+http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8#http://58.247.68.5:61985/hlsok/2657344c/index.m3u8#http://58.247.68.5:61985/m3u8/cfcece47/index.m3u8
 #EXTINF:-1 ,星卫娱乐台
 http://58.247.68.5:61985/m3u8/2657344c/index.m3u8
-#EXTINF:-1 ,星卫HD电影台
-http://58.247.68.5:61985/m3u8/cfcece47/index.m3u8
 #EXTINF:-1 ,亚洲旅游
-http://58.247.68.5:61985/hlsok/9331c00b/index.m3u8
-#EXTINF:-1 ,亚洲旅游台
-http://58.247.68.5:61985/m3u8/9331c00b/index.m3u8
+http://58.247.68.5:61985/hlsok/9331c00b/index.m3u8#http://58.247.68.5:61985/m3u8/9331c00b/index.m3u8
 #EXTINF:-1 ,亚洲美食
-http://58.247.68.5:61985/m3u8/32fa8773/index.m3u8
-#EXTINF:-1 ,亚洲美食
-http://58.247.68.5:61985/hlsok/32fa8773/index.m3u8
+http://58.247.68.5:61985/m3u8/32fa8773/index.m3u8#http://58.247.68.5:61985/hlsok/32fa8773/index.m3u8
 #EXTINF:-1 ,亚洲新闻
-http://58.247.68.5:61985/m3u8/1306d57e/index.m3u8
-#EXTINF:-1 ,亚洲新闻
-http://58.247.68.5:61985/hlsok/1306d57e/index.m3u8
+http://58.247.68.5:61985/m3u8/1306d57e/index.m3u8#http://58.247.68.5:61985/hlsok/1306d57e/index.m3u8
 #EXTINF:-1 ,壹电影
-http://58.247.68.5:61985/m3u8/4dcedbb6/index.m3u8
-#EXTINF:-1 ,壹电影
-http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
+http://58.247.68.5:61985/m3u8/4dcedbb6/index.m3u8#http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
 #EXTINF:-1 ,壹新闻
-http://58.247.68.5:61985/m3u8/cc4d59da/index.m3u8
-#EXTINF:-1 ,壹新闻
-http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
+http://58.247.68.5:61985/m3u8/cc4d59da/index.m3u8#http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
 #EXTINF:-1 ,壹综合
-http://58.247.68.5:61985/m3u8/f0546361/index.m3u8
-#EXTINF:-1 ,壹综合
-http://58.247.68.5:61985/hlsok/f0546361/index.m3u8
+http://58.247.68.5:61985/m3u8/f0546361/index.m3u8#http://58.247.68.5:61985/hlsok/f0546361/index.m3u8
 #EXTINF:-1 ,原视
-http://58.247.68.5:61985/m3u8/8d6f904e/index.m3u8
-#EXTINF:-1 ,原视
-http://58.247.68.5:61985/hlsok/8d6f904e/index.m3u8
+http://58.247.68.5:61985/m3u8/8d6f904e/index.m3u8#http://58.247.68.5:61985/hlsok/8d6f904e/index.m3u8
 #EXTINF:-1 ,中视
-http://58.247.68.5:61985/m3u8/7b007f53/index.m3u8
-#EXTINF:-1 ,中视
-http://58.247.68.5:61985/hlsok/7b007f53/index.m3u8
+http://58.247.68.5:61985/m3u8/7b007f53/index.m3u8#http://58.247.68.5:61985/hlsok/7b007f53/index.m3u8
 #EXTINF:-1 ,中视经典
-http://58.247.68.5:61985/m3u8/d743e534/index.m3u8
-#EXTINF:-1 ,中视经典
-http://58.247.68.5:61985/hlsok/d743e534/index.m3u8
+http://58.247.68.5:61985/m3u8/d743e534/index.m3u8#http://58.247.68.5:61985/hlsok/d743e534/index.m3u8
 #EXTINF:-1 ,中视菁采
-http://58.247.68.5:61985/m3u8/44aa1843/index.m3u8
-#EXTINF:-1 ,中视菁采
-http://58.247.68.5:61985/hlsok/44aa1843/index.m3u8
+http://58.247.68.5:61985/m3u8/44aa1843/index.m3u8#http://58.247.68.5:61985/hlsok/44aa1843/index.m3u8
 #EXTINF:-1 ,中视新闻
-http://58.247.68.5:61985/m3u8/66836176/index.m3u8
-#EXTINF:-1 ,中视新闻
-http://58.247.68.5:61985/hlsok/66836176/index.m3u8
+http://58.247.68.5:61985/m3u8/66836176/index.m3u8#http://58.247.68.5:61985/hlsok/66836176/index.m3u8
 #EXTINF:-1 ,中天新闻
-http://58.247.68.5:61985/m3u8/565046de1/index.m3u8
-#EXTINF:-1 ,中天新闻
-http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
+http://58.247.68.5:61985/m3u8/565046de1/index.m3u8#http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
 #EXTINF:-1 ,中天娱乐
-http://58.247.68.5:61985/m3u8/8767613c/index.m3u8
-#EXTINF:-1 ,中天娱乐
-http://58.247.68.5:61985/hlsok/8767613c/index.m3u8
+http://58.247.68.5:61985/m3u8/8767613c/index.m3u8#http://58.247.68.5:61985/hlsok/8767613c/index.m3u8
 #EXTINF:-1 ,中天综合
-http://58.247.68.5:61985/m3u8/cd862c57/index.m3u8
-#EXTINF:-1 ,中天综合
-http://58.247.68.5:61985/hlsok/cd862c57/index.m3u8
+http://58.247.68.5:61985/m3u8/cd862c57/index.m3u8#http://58.247.68.5:61985/hlsok/cd862c57/index.m3u8
 #EXTINF:-1 ,Al Jazeera
-http://58.247.68.5:61985/m3u8/91fade782/index.m3u8
-#EXTINF:-1 ,Al Jazeera
-http://58.247.68.5:61985/hlsok/91fade782/index.m3u8
+http://58.247.68.5:61985/m3u8/91fade782/index.m3u8#http://58.247.68.5:61985/hlsok/91fade782/index.m3u8
 #EXTINF:-1 ,Animax
-http://58.247.68.5:61985/m3u8/4d696d82/index.m3u8
-#EXTINF:-1 ,Animax
-http://58.247.68.5:61985/hlsok/4d696d82/index.m3u8
+http://58.247.68.5:61985/m3u8/4d696d82/index.m3u8#http://58.247.68.5:61985/hlsok/4d696d82/index.m3u8
 #EXTINF:-1 ,ASSP 1
-http://58.247.68.5:61985/m3u8/e2a9fd412/index.m3u8
-#EXTINF:-1 ,ASSP 1
-http://58.247.68.5:61985/hlsok/e2a9fd412/index.m3u8
+http://58.247.68.5:61985/m3u8/e2a9fd412/index.m3u8#http://58.247.68.5:61985/hlsok/e2a9fd412/index.m3u8
 #EXTINF:-1 ,ASSP 2
-http://58.247.68.5:61985/m3u8/6005446aa/index.m3u8
-#EXTINF:-1 ,ASSP 2
-http://58.247.68.5:61985/hlsok/6005446aa/index.m3u8
+http://58.247.68.5:61985/m3u8/6005446aa/index.m3u8#http://58.247.68.5:61985/hlsok/6005446aa/index.m3u8
 #EXTINF:-1 ,ASSP 3
-http://58.247.68.5:61985/m3u8/3e8df4b90/index.m3u8
-#EXTINF:-1 ,ASSP 3
-http://58.247.68.5:61985/hlsok/3e8df4b90/index.m3u8
+http://58.247.68.5:61985/m3u8/3e8df4b90/index.m3u8#http://58.247.68.5:61985/hlsok/3e8df4b90/index.m3u8
 #EXTINF:-1 ,ASSP 4
-http://58.247.68.5:61985/m3u8/67925edf7/index.m3u8
-#EXTINF:-1 ,ASSP 4
-http://58.247.68.5:61985/hlsok/67925edf7/index.m3u8
+http://58.247.68.5:61985/m3u8/67925edf7/index.m3u8#http://58.247.68.5:61985/hlsok/67925edf7/index.m3u8
 #EXTINF:-1 ,ASSP 5
-http://58.247.68.5:61985/m3u8/639fd6dd8/index.m3u8
-#EXTINF:-1 ,ASSP 5
-http://58.247.68.5:61985/hlsok/639fd6dd8/index.m3u8
+http://58.247.68.5:61985/m3u8/639fd6dd8/index.m3u8#http://58.247.68.5:61985/hlsok/639fd6dd8/index.m3u8
 #EXTINF:-1 ,Astro 欢喜台 FHD
-http://58.247.68.5:61985/m3u8/eed43eebc/index.m3u8
-#EXTINF:-1 ,Astro 欢喜台 FHD
-http://58.247.68.5:61985/hlsok/eed43eebc/index.m3u8
+http://58.247.68.5:61985/m3u8/eed43eebc/index.m3u8#http://58.247.68.5:61985/hlsok/eed43eebc/index.m3u8
 #EXTINF:-1 ,Astro 全佳
-http://58.247.68.5:61985/m3u8/f8894d6f8/index.m3u8
-#EXTINF:-1 ,Astro 全佳
-http://58.247.68.5:61985/hlsok/f8894d6f8/index.m3u8
+http://58.247.68.5:61985/m3u8/f8894d6f8/index.m3u8#http://58.247.68.5:61985/hlsok/f8894d6f8/index.m3u8
 #EXTINF:-1 ,Astro 双星
-http://58.247.68.5:61985/m3u8/c6e446ec2/index.m3u8
-#EXTINF:-1 ,Astro 双星
-http://58.247.68.5:61985/hlsok/c6e446ec2/index.m3u8
+http://58.247.68.5:61985/m3u8/c6e446ec2/index.m3u8#http://58.247.68.5:61985/hlsok/c6e446ec2/index.m3u8
 #EXTINF:-1 ,Astro 小太阳
-http://58.247.68.5:61985/m3u8/8fc3aa637/index.m3u8
-#EXTINF:-1 ,Astro 小太阳
-http://58.247.68.5:61985/hlsok/8fc3aa637/index.m3u8
+http://58.247.68.5:61985/m3u8/8fc3aa637/index.m3u8#http://58.247.68.5:61985/hlsok/8fc3aa637/index.m3u8
 #EXTINF:-1 ,Astro AEC
-http://58.247.68.5:61985/m3u8/8b490aaa2/index.m3u8
-#EXTINF:-1 ,Astro AEC
-http://58.247.68.5:61985/hlsok/8b490aaa2/index.m3u8
+http://58.247.68.5:61985/m3u8/8b490aaa2/index.m3u8#http://58.247.68.5:61985/hlsok/8b490aaa2/index.m3u8
 #EXTINF:-1 ,Astro AOD
-http://58.247.68.5:61985/m3u8/95506d172/index.m3u8
-#EXTINF:-1 ,Astro AOD
-http://58.247.68.5:61985/hlsok/95506d172/index.m3u8
+http://58.247.68.5:61985/m3u8/95506d172/index.m3u8#http://58.247.68.5:61985/hlsok/95506d172/index.m3u8
 #EXTINF:-1 ,Astro Arena
-http://58.247.68.5:61985/m3u8/a806e8354/index.m3u8
-#EXTINF:-1 ,Astro Arena
-http://58.247.68.5:61985/hlsok/a806e8354/index.m3u8
+http://58.247.68.5:61985/m3u8/a806e8354/index.m3u8#http://58.247.68.5:61985/hlsok/a806e8354/index.m3u8
 #EXTINF:-1 ,Astro ARENA 2
-http://58.247.68.5:61985/m3u8/d51fac985/index.m3u8
-#EXTINF:-1 ,Astro ARENA 2
-http://58.247.68.5:61985/hlsok/d51fac985/index.m3u8
+http://58.247.68.5:61985/m3u8/d51fac985/index.m3u8#http://58.247.68.5:61985/hlsok/d51fac985/index.m3u8
 #EXTINF:-1 ,Astro AWANI
-http://58.247.68.5:61985/m3u8/6cd9a8b4d/index.m3u8
-#EXTINF:-1 ,Astro AWANI
-http://58.247.68.5:61985/hlsok/6cd9a8b4d/index.m3u8
+http://58.247.68.5:61985/m3u8/6cd9a8b4d/index.m3u8#http://58.247.68.5:61985/hlsok/6cd9a8b4d/index.m3u8
 #EXTINF:-1 ,AXN
 http://58.247.68.5:61985/hlsok/c1c18f78/index.m3u8
 #EXTINF:-1 ,AXN洋片台
