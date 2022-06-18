@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== Export from 影音宝 - 听你想听的，看你想看的 ======
-http://0/0.m3u8
 #EXTINF:-1 ,8度空间
 http://58.247.68.5:61985/m3u8/8c1c704ed/index.m3u8
 #EXTINF:-1 ,8度空间
