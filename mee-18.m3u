@@ -13,14 +13,12 @@ http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/ind
 http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=#http://live.cooltv.top/tv/btime.php?id=btvxw
 #EXTINF:-1 group-title="北京",北京影视
 http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=#http://live.cooltv.top/tv/btime.php?id=btvys
-#EXTINF:-1 group-title="北京",冬奥纪实
-#http://live.cooltv.top/tv/btime.php?id=bjjs
+#EXTINF:-1 group-title="北京",北京科教
+http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=#http://live.cooltv.top/tv/btime.php?id=btvkj
 #EXTINF:-1 group-title=“港台",东森新闻
-http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8#http://58.247.68.5:61985/m3u8/1ecdeb5a/index.m3u8#https://ytb.52sf.ga/jmsytb.m3u8?c=9#http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
+https://ytb.52sf.ga/jmsytb.m3u8?c=9
 #EXTINF:-1 group-title=“港台",东森财经
-http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8#https://ytb.52sf.ga/jmsytb.m3u8?c=12#http://220.134.196.147:9546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-#EXTINF:-1 group-title=“港台",国家地理
-http://220.134.196.147:9509/index.m3u8
+https://ytb.52sf.ga/jmsytb.m3u8?c=12
 #EXTINF:-1 group-title=“港台",鳳凰新聞
 http://39.135.49.140:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title=“港台",鳳凰中文
