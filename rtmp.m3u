@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 ,爱尔达体育1
+rtmp://59.124.75.157/sat/md011
+#EXTINF:-1 ,爱尔达体育1
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 ,爱尔达体育2
+rtmp://59.124.75.157/sat/md051
+#EXTINF:-1 ,爱尔达体育2
+rtmp://59.124.75.138/sat/md051
+#EXTINF:-1 ,爱尔达体育3
+rtmp://59.124.75.138/sat/md021
+#EXTINF:-1 ,爱尔达体育3
+rtmp://59.124.75.157/sat/md021
+#EXTINF:-1 ,东森财经新闻
+rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 ,东森财经新闻
+rtmp://59.124.75.138/sat/tv571
+#EXTINF:-1 ,东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 ,东森美洲新闻台
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 ,東森財經新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+#EXTINF:-1 ,東森新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+#EXTINF:-1 ,東森新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+#EXTINF:-1 ,动物星球
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,翡翠台
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 ,华视
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 ,华视
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 ,华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 ,华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 ,华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 ,环宇新闻
+http://59.125.101.187:8528/1.m3u8
+#EXTINF:-1 ,開電視
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 ,龙华偶像
+http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 ,龙华日韩
+http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 ,龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 ,民视
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 ,民视
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民視旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 ,民視新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+#EXTINF:-1 ,民視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 ,民視影劇台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+#EXTINF:-1 ,三立新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+#EXTINF:-1 ,台视
+rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 ,台视
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 ,台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台視新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+#EXTINF:-1 ,天映频道
+http://203.77.246.50:5000/udp/239.1.2.162:5000
+#EXTINF:-1 ,纬来日本
+rtmp://59.124.75.157/sat/tv771
+#EXTINF:-1 ,纬来日本
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.157/sat/tv721
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.156/sat/tv721
+#EXTINF:-1 ,纬来育乐
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 ,纬来育乐
+rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 ,无线财经
+http://111.229.84.232/yulin/tvb.php?id=2
+#EXTINF:-1 ,无线财经
+http://ye23.win/iptv/tvb.php?id=2
+#EXTINF:-1 ,无线新闻
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 ,无线新闻
+http://111.229.84.232/yulin/tvb.php?id=1
+#EXTINF:-1 ,无线新闻
+http://ye23.win/iptv/tvb.php?id=5
+#EXTINF:-1 ,无线新闻
+http://ye23.win/iptv/tvb.php?id=4
+#EXTINF:-1 ,无线新闻
+http://ye23.win/iptv/tvb.php?id=1
+#EXTINF:-1 ,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 ,無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 ,有線財經資訊台 HD
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1 ,有線新聞台 HD
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 ,有線綜合娛樂台 HD
+http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1 ,长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 ,中视
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 ,中视
+rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 ,中視新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+#EXTINF:-1 ,中天新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+#EXTINF:-1 ,ELEVEN体育二台
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 ,ELEVEN体育二台
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 ,ELEVEN体育二台
+rtmp://59.124.75.157/sat/tv741
+#EXTINF:-1 ,ELEVEN体育二台
+rtmp://59.124.75.157/sat/md041
+#EXTINF:-1 ,ELEVEN体育一台
+rtmp://59.124.75.138/sat/tv731
+#EXTINF:-1 ,ELEVEN体育一台
+rtmp://59.124.75.157/sat/tv731
+#EXTINF:-1 ,HKC有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 ,HKC有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 ,HKC有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 ,MoMo综合台
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 ,MoMo综合台
+rtmp://59.124.75.157/sat/tv761
+#EXTINF:-1 ,NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 ,Now Sports Prime 630
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 ,Now新聞332台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 ,Now直播331台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 ,RTHK31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF:-1 ,RTHK32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1 ,Skynews
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 ,TRT World HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TVBS欢乐
+rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 ,TVBS欢乐
+rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1 ,TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 ,TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 ,TVBS新闻
+rtmp://59.124.75.157/sat/tv551
+#EXTINF:-1 ,TVBS新闻
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 ,TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 ,TVBS新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+#EXTINF:-1 ,TVBSG
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
