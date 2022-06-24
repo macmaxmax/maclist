@@ -1,18 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,爱尔达体育1
-rtmp://59.124.75.157/sat/md011
-#EXTINF:-1 ,爱尔达体育1
 rtmp://59.124.75.138/sat/md011
-#EXTINF:-1 ,爱尔达体育2
-rtmp://59.124.75.157/sat/md051
 #EXTINF:-1 ,爱尔达体育2
 rtmp://59.124.75.138/sat/md051
 #EXTINF:-1 ,爱尔达体育3
 rtmp://59.124.75.138/sat/md021
-#EXTINF:-1 ,爱尔达体育3
-rtmp://59.124.75.157/sat/md021
-#EXTINF:-1 ,东森财经新闻
-rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 ,东森财经新闻
 rtmp://59.124.75.138/sat/tv571
 #EXTINF:-1 ,东森美洲卫视
@@ -29,8 +21,6 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,翡翠台
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 ,华视
-rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 ,华视
 rtmp://59.124.75.138/sat/tv111
 #EXTINF:-1 ,华语电视
@@ -49,8 +39,6 @@ http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7
 http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 ,龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 ,民视
-rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 ,民视
 rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1 ,民视新闻台
@@ -71,8 +59,6 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 #EXTINF:-1 ,台视
 rtmp://59.124.75.157/sat/tv071
-#EXTINF:-1 ,台视
-rtmp://59.124.75.138/sat/tv071
 #EXTINF:-1 ,台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 ,台視新聞
@@ -131,14 +117,8 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 rtmp://59.124.75.138/sat/md041
 #EXTINF:-1 ,ELEVEN体育二台
 rtmp://59.124.75.138/sat/tv741
-#EXTINF:-1 ,ELEVEN体育二台
-rtmp://59.124.75.157/sat/tv741
-#EXTINF:-1 ,ELEVEN体育二台
-rtmp://59.124.75.157/sat/md041
 #EXTINF:-1 ,ELEVEN体育一台
 rtmp://59.124.75.138/sat/tv731
-#EXTINF:-1 ,ELEVEN体育一台
-rtmp://59.124.75.157/sat/tv731
 #EXTINF:-1 ,HKC有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 ,HKC有线新闻台
@@ -147,8 +127,6 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,MoMo综合台
 rtmp://59.124.75.138/sat/tv761
-#EXTINF:-1 ,MoMo综合台
-rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 ,NBC NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 ,Now Sports Prime 630
@@ -167,14 +145,10 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TVBS欢乐
 rtmp://59.124.75.138/sat/tv421
-#EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 ,TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 ,TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.157/sat/tv551
 #EXTINF:-1 ,TVBS新闻
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 ,TVBS新闻台
