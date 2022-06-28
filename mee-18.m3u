@@ -15,14 +15,6 @@ http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/ind
 http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=#http://live.cooltv.top/tv/btime.php?id=btvys
 #EXTINF:-1 group-title="北京",北京科教
 http://111.6.126.218:80/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=#http://live.cooltv.top/tv/btime.php?id=btvkj
-#EXTINF:-1 group-title=“港台",东森新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=9
-#EXTINF:-1 group-title=“港台",东森财经
-https://ytb.52sf.ga/jmsytb.m3u8?c=12
-#EXTINF:-1 group-title=“港台",鳳凰新聞
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title=“港台",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="洛阳",洛阳综合频道
 http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8
 #EXTINF:-1 group-title="洛阳",洛阳科教频道
