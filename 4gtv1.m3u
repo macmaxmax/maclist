@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 ,民视第一
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+#EXTINF:-1 ,民视台湾
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+#EXTINF:-1 ,中视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+#EXTINF:-1 ,华视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+#EXTINF:-1 ,公视戏剧
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+#EXTINF:-1 ,好消息2
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+#EXTINF:-1 ,民视综艺
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+#EXTINF:-1 ,民视影剧
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+#EXTINF:-1 ,民视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 ,中视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 ,华视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+#EXTINF:-1 ,智林体育
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+#EXTINF:-1 ,民视旅游
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 ,时尚运动Ｘ
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+#EXTINF:-1 ,TVBS新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+#EXTINF:-1 ,三立综合
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 ,东森财经新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+#EXTINF:-1 ,三立iNEWS
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+#EXTINF:-1 ,东森新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 ,镜新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+#EXTINF:-1 ,中视新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+#EXTINF:-1 ,民视新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+#EXTINF:-1 ,台视新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+#EXTINF:-1 ,华视新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
+#EXTINF:-1 ,东森新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+#EXTINF:-1 ,东森财经新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+#EXTINF:-1 ,中天新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+#EXTINF:-1 ,寰宇新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+#EXTINF:-1 ,TVBS新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+#EXTINF:-1 ,三立新闻
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+#EXTINF:-1 ,三立iNEWS
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
