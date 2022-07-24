@@ -4,7 +4,7 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="4GTV",东森财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="4GTV",TVBS新闻台
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#rtmp://59.124.75.138/sat/tv551#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="4GTV",三立iNEWS
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 #EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="4GTV",三立综合台
@@ -46,7 +46,7 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4GTV",民视影剧台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="4GTV",民视新闻台
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4GTV",民视旅游台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="4GTV",民视第一台
@@ -59,3 +59,17 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 #EXTINF:-1 tvg-id="6111" tvg-name="SBN全球财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png" group-title="4GTV",SBN全球财经台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+
+#EXTM3U
+#EXTINF:-1 group-title="rmtp",爱尔达体育1
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 group-title="rmtp",博斯运动2
+rtmp://59.124.75.138/sat/md051
+#EXTINF:-1 group-title="rmtp",博斯魅力
+rtmp://59.124.75.138/sat/md021
+#EXTINF:-1 group-title="rmtp",博斯无限2
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 group-title="rmtp",ELEVEN体育1
+rtmp://59.124.75.138/sat/tv731
+#EXTINF:-1 group-title="rmtp",ELEVEN体育2
+rtmp://59.124.75.138/sat/tv741
