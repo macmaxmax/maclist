@@ -53,38 +53,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/index.m3u8#http://3
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8#http://39.134.65.179/PLTV/88888888/224/3221225674/1.m3u8#http://39.134.65.164/PLTV/88888888/224/3221225674/1.m3u8#http://39.134.65.181/PLTV/88888888/224/3221225674/1.m3u8#http://39.134.65.183/PLTV/88888888/224/3221225674/1.m3u8#http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8#http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225500/index.m3u8#ttp://39.134.65.181/PLTV/88888888/224/3221225513/1.m3u8#http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8#http://39.134.65.183/PLTV/88888888/224/3221225513/1.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 group-title="河南",河南电视剧
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",河南都市
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/e775d12dd48d4731ae8bdea77dd1e9f9_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",河南法治
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/88464421a8cd4ae88199f19b4c27ff0d_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",河南公共
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/64eed945d15c4a55b5962ea3da44f80f_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",河南国际
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/d7d843b7f7f649d39bc57c8d29e9fe33_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",河南民生
-http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-#EXTINF:-1 group-title="河南",河南乡村
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",河南新闻
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",文物宝库
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/edeb8f0314984727a91a3d6e8c03f59b_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="河南",武术世界
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/ad4e0a79dbac48c2a9c9930cb96a49b9_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 group-title="郑州",郑州都市生活
-https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
-#EXTINF:-1 group-title="郑州",郑州商都频道
-http://live.zztv.tv/zztv2/playlist.m3u8
-#EXTINF:-1 group-title="郑州",郑州文体旅游
-http://live.zztv.tv/wtzzly/playlist.m3u8
-#EXTINF:-1 group-title="郑州",郑州新闻综合
-http://live.zztv.tv/gbds/playlist.m3u8
-#EXTINF:-1 group-title="郑州",郑州影视戏曲
-http://live.zztv.tv/zztv5/playlist.m3u8
-#EXTINF:-1 group-title="浙江",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江科教影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江民生休闲
@@ -105,7 +73,7 @@ http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8#http://shbu.live.
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://111.11.123.49:6610/000000001000/5000000010000017540/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2885320220513031619029333&channel-id=bestzb&Contentid=5000000010000017540#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1#http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://140.207.241.3:8080/live/program/live/dycjhd/4000000/d1.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚HD
-http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1#http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8#http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
 
