@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分类",BRTV青年
+http://111.13.42.235/PLTV/88888888/224/3221226562/1.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分类",BRTV生活
+http://111.13.42.235/PLTV/88888888/224/3221226561/1.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分类",BRTV新闻
+http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分类",CBN风尚生活
+http://118.31.113.130:82/gzaaa1.php?id=ec086cc43b2c826958f97cb7af92e595
+#EXTINF:-1 group-title="未分类",CBN每日影院
+http://118.31.113.130:82/gzaaa1.php?id=8623af1ab8ba6f4e1a66ef05c0054fda
+#EXTINF:-1 group-title="未分类",CBN幸福剧场
+http://118.31.113.130:82/gzaaa1.php?id=66c8e046bdf90c0e40820e277fce6d3f
+#EXTINF:-1 group-title="未分类",CBN幸福娱乐
+http://118.31.113.130:82/gzaaa1.php?id=5f3668597128ccf8fcfdfb136c06bdd3
+#EXTINF:-1 group-title="未分类",HK]明珠台
+http://198.16.64.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1 group-title="未分类",[TW]八大综合台
+http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="未分类",[TW]博斯高球
+http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="未分类",[TW]博斯魅力
+http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="未分类",[TW]博斯运动二台
+http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 group-title="未分类",[TW]东森财经新闻
+http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 group-title="未分类",[TW]东森戏剧
+http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1 group-title="未分类",[TW]公視
+http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+#EXTINF:-1 group-title="未分类",[TW]华视
+http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 group-title="未分类",[TW]靖天国际台
+http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="未分类",[TW]龙华偶像
+http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1 group-title="未分类",[TW]龙华戏剧
+http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 group-title="未分类",[TW]美食星球
+http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 group-title="未分类",[TW]民视新闻台
+http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1 group-title="未分类",[TW]年代新闻
+http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 group-title="未分类",[TW]探索科学
+http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1 group-title="未分类",[TW]探索频道
+http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 group-title="未分类",[TW]纬来体育
+http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1 group-title="未分类",[TW]亚洲旅游台
+http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 group-title="未分类",[TW]中天娱乐
+http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 group-title="未分类",GDG相声
+http://txtest-xp2p.p2p.huya.com/src//64310431-64310431-276211197936664576-128744318-10057-A-0-1.xs
+#EXTINF:-1 group-title="未分类",GoodTV 爱旅行台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="未分类",GoodTV 经典音乐
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 group-title="未分类",GoodTV 真情部落
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+#EXTINF:-1 group-title="未分类",HBO原创巨献
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 group-title="未分类",HKC有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="未分类",HKC有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 group-title="未分类",IPTV高清院线
+http://119.39.128.18:88/hls/34/index.m3u8
+#EXTINF:-1 group-title="未分类",IPTV古装剧场
+http://119.39.128.18:88/hls/36/index.m3u8
+#EXTINF:-1 group-title="未分类",IPTV经典剧场
+http://119.39.128.18:88/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",IPTV抗战剧场
+http://119.39.128.18:88/hls/35/index.m3u8
+#EXTINF:-1 group-title="未分类",J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="未分类",J2
+https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="未分类",J5台
+http://120.84.96.78:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="未分类",TVB J2
+http://120.84.96.69:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="未分类",TVBJ2
+http://120.132.122.244:59845/hls/81/index.m3u8
+#EXTINF:-1 group-title="未分类",TVBSG
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻 FHD ★
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻台
+https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻台
+https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
+#EXTINF:-1 group-title="未分类",TVBS新闻台
+https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
+#EXTINF:-1 group-title="未分类",TVB翡翠
+http://120.132.122.244:59845/hls/80/index.m3u8
+#EXTINF:-1 group-title="未分类",TVB明珠
+http://120.132.122.244:59845/hls/84/index.m3u8
