@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,民視第一台
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=1oVSLtCx_6DjKY7c8LXBEw&expires=1667871495&token1=fnCeKDw-7HFnlMak-tXa6Q&expires1=1667871495
+https://c86afd110b7b476c88068b53fe7395b1.mediatailor.ap-southeast-1.amazonaws.com/v1/master/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freeweb/UuMSup0jq0320eo-n9edZntZVjj8K5iUpIpVri09eQM%3d/master.m3u8?token=brP1y2ltEZQftYTO_2-Q_w&expires=1667843189&token1=pEO4ZUCdrflF6fSLqVnHeQ&expires1=1667843189&refer=YzAwZDMzMjQtZTJjNi00YjI5LWJjMDEtNTdjZGUxYjQwZDc1&y=0&ads.cust_params=vtitle%253D%252525E6%252525B0%25252591%252525E8%252525A6%25252596%252525E7%252525AC%252525AC%252525E4%252525B8%25252580%252525E5%2525258F%252525B0%2526assetid%253D4gtv-4gtv003%2526dm-ad%253D1%2526originid%253D4gtv_freeweb%2526uid%253D%2526ad_mode%253Dssai&ads.ss_req=1&ads.ip=36.227.200.128&ads.playerheight=360&ads.playerwidth=640
 #EXTINF:-1 ,民視台灣台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=1&asset_id=4gtv-4gtv001&channel_id=2
 #EXTINF:-1 ,民視
