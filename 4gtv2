@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,民視第一台
-https://www.4gtv.tv/channel_sub.html?channelSet_id=1&asset_id=4gtv-4gtv003&channel_id=1
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=1oVSLtCx_6DjKY7c8LXBEw&expires=1667871495&token1=fnCeKDw-7HFnlMak-tXa6Q&expires1=1667871495
 #EXTINF:-1 ,民視台灣台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=1&asset_id=4gtv-4gtv001&channel_id=2
 #EXTINF:-1 ,民視
