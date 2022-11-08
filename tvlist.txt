@@ -1,113 +1,111 @@
-#EXTM3U
-#EXTINF:-1 group-title="未分类",56東森財經新聞台
+56東森財經新聞台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live019&channel_id=211
-#EXTINF:-1 group-title="未分类",51東森新聞台
+51東森新聞台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live114&channel_id=234
-#EXTINF:-1 group-title="未分类",13三立綜合台
+13三立綜合台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live207&channel_id=169
-#EXTINF:-1 group-title="未分类",54三立財經新聞iNEWS
+54三立財經新聞iNEWS
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live089&channel_id=229
-#EXTINF:-1 group-title="未分类",50鏡電視新聞台
+50鏡電視新聞台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv075&channel_id=268
-#EXTINF:-1 group-title="未分类",10中視
+10中視
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv040&channel_id=4
-#EXTINF:-1 group-title="未分类",57中視新聞
+57中視新聞
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv074&channel_id=33
-#EXTINF:-1 group-title="未分类",55TVBS新聞
+55TVBS新聞
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live072&channel_id=129
-#EXTINF:-1 group-title="未分类",58中天新聞台
+58中天新聞台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv009&channel_id=30
-#EXTINF:-1 group-title="未分类",12華視
+12華視
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv041&channel_id=6
-#EXTINF:-1 group-title="未分类",52華視新聞
+52華視新聞
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv052&channel_id=34
-#EXTINF:-1 group-title="未分类",14客家電視台
+14客家電視台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv043&channel_id=107
-#EXTINF:-1 group-title="未分类",21新唐人亞太台
+21新唐人亞太台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live050&channel_id=223
-#EXTINF:-1 group-title="未分类",23ARIRANG阿里郎頻道
+23ARIRANG阿里郎頻道
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv079&channel_id=189
-#EXTINF:-1 group-title="未分类",30LiveABC互動英語頻道
+30LiveABC互動英語頻道
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live030&channel_id=188
-#EXTINF:-1 group-title="未分类",32ELTV生活英語台
+32ELTV生活英語台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-longturn20&channel_id=106
-#EXTINF:-1 group-title="未分类",42MOMO親子台
+42MOMO親子台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live107&channel_id=231
-#EXTINF:-1 group-title="未分类",49東森購物一台
+49東森購物一台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live047&channel_id=173
-#EXTINF:-1 group-title="未分类",53民視新聞台
+53民視新聞台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv13&channel_id=31
 #EXTINF:-1 groupF-title="未分类",4民視第一台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv003&channel_id=1
-#EXTINF:-1 group-title="未分类",5民視台灣台
+5民視台灣台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv001&channel_id=2
-#EXTINF:-1 group-title="未分类",6民視
+6民視
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv002&channel_id=3
-#EXTINF:-1 group-title="未分类",111民視旅遊台
+111民視旅遊台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv07&channel_id=61
-#EXTINF:-1 group-title="未分类",9大愛電視
+9大愛電視
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live007&channel_id=209
-#EXTINF:-1 group-title="未分类",62SBN全球財經台
+62SBN全球財經台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live060&channel_id=224
-#EXTINF:-1 group-title="未分类",69東森購物二台
+69東森購物二台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live046&channel_id=174
-#EXTINF:-1 group-title="未分类",70民視綜藝台
+70民視綜藝台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv004&channel_id=16
-#EXTINF:-1 group-title="未分类",126民視影劇台
+126民視影劇台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv09&channel_id=24
-#EXTINF:-1 group-title="未分类",71豬哥亮歌廳秀
+71豬哥亮歌廳秀
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv006&channel_id=113
-#EXTINF:-1 group-title="未分类",76中天全民最大黨
+76中天全民最大黨
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live076&channel_id=248
-#EXTINF:-1 group-title="未分类",105智林體育台
+105智林體育台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv101&channel_id=58
-#EXTINF:-1 group-title="未分类",106時尚運動X
+106時尚運動X
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv014&channel_id=69
-#EXTINF:-1 group-title="未分类",112滾動力rollor
+112滾動力rollor
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live012&channel_id=249
-#EXTINF:-1 group-title="未分类",113亞洲旅遊台
+113亞洲旅遊台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-longturn17&channel_id=250
-#EXTINF:-1 group-title="未分类",120愛爾達生活旅遊台
+120愛爾達生活旅遊台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live120&channel_id=237
-#EXTINF:-1 group-title="未分类",121LUXE TV Channe
+121LUXE TV Channe
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live121&channel_id=175
-#EXTINF:-1 group-title="未分类",122TV5MONDE STYLE HD 生活時尚
+122TV5MONDE STYLE HD 生活時尚
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live122&channel_id=178
-#EXTINF:-1 group-title="未分类",123中天美食旅遊
+123中天美食旅遊
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live123&channel_id=251
-#EXTINF:-1 group-title="未分类",125公視戲劇
+125公視戲劇
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv042&channel_id=7
-#EXTINF:-1 group-title="未分类",137金光布袋戲
+137金光布袋戲
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live144&channel_id=236
-#EXTINF:-1 group-title="未分类",157My Cinema Europe HD 我的歐洲電影
+157My Cinema Europe HD 我的歐洲電影
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live157&channel_id=176
-#EXTINF:-1 group-title="未分类",160好消息2台
+160好消息2台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv17&channel_id=8
-#EXTINF:-1 group-title="未分类",164人間衛視
+164人間衛視
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live008&channel_id=210
-#EXTINF:-1 group-title="未分类",205華語戲劇台
+205華語戲劇台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live005&channel_id=244
-#EXTINF:-1 group-title="未分类",206華語綜藝台
+206華語綜藝台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live006&channel_id=245
-#EXTINF:-1 group-title="未分类",207戲劇免費看
+207戲劇免費看
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live010&channel_id=270
-#EXTINF:-1 group-title="未分类",170半島國際新聞台
+170半島國際新聞台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv10&channel_id=85
-#EXTINF:-1 group-title="未分类",171VOA美國之音
+171VOA美國之音
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=litv-ftv03&channel_id=86
-#EXTINF:-1 group-title="未分类",173DW德國之聲
+173DW德國之聲
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live071&channel_id=226
-#EXTINF:-1 group-title="未分类",185國會頻道1
+185國會頻道1
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv084&channel_id=170
-#EXTINF:-1 group-title="未分类",186國會頻道2
+186國會頻道2
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv085&channel_id=171
-#EXTINF:-1 group-title="未分类",201經典電影台
+201經典電影台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live021&channel_id=201
-#EXTINF:-1 group-title="未分类",202經典卡通台
+202經典卡通台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live022&channel_id=202
-#EXTINF:-1 group-title="未分类",203兒童卡通台
+203兒童卡通台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live009&channel_id=269
-#EXTINF:-1 group-title="未分类",204精選動漫台
+204精選動漫台
 https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-live024&channel_id=204
-
 
