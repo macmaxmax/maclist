@@ -21,6 +21,14 @@ http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8
 http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8
 #EXTINF:-1 group-title="洛阳",洛阳文旅频道
 http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
+
+#EXTINF:-1 group-title="体育",愛爾達1台,
+http://www.best336699.com:1935/besttv/IR01.stream/chunklist_w1140575877.m3u8
+#EXTINF:-1 group-title="体育",愛爾達2台,
+http://www.best336699.com:1935/besttv/IR02.stream/media_w27854583_5615.m3u8
+#EXTINF:-1 group-title="体育",愛爾達3台,
+http://www.best336699.com:1935/besttv/IR03.stream/media_w669091355_112279.m3u8
+
 #EXTINF:-1 group-title="浙江",浙江科教影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江民生休闲
